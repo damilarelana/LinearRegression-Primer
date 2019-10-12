@@ -11,4 +11,7 @@ y = 2*x - 1 + randomNumGenObj.randn(50)
 sns.set()
 
 # Plot current dataset
-plt.scatter(x,y)
+plt.scatter(x, y)
+plt.show()
+
+# Apply modelling class

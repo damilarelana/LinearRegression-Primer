@@ -1,1 +1,1 @@
-### A scikit-learn implementation of a simple Naive Bayes Classification
+### A numpy implementation of a simple Linear Regression
